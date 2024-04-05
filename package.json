@@ -1,0 +1,22 @@
+{
+
+  "scripts":{
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test":"jest"
+
+  },
+
+  "dependencies": {
+   "react": "^18.2.0",   
+   "react-dom": "^18.2.0" 
+  },
+ 
+  "devDependencies": {   
+  "parcel": "^2.12.0",   
+  "process": "^0.11.10" 
+  },
+  "browserlist":[
+    "last 2 versions"
+]
+}
